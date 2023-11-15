@@ -1,0 +1,74 @@
+[
+  {
+    "_id": { "$oid": "652afdc8f574e7e09d4b8ebc" },
+    "name": "Americano Coffee",
+    "chef": "Mr. Matin Paul",
+    "supplier": "Cappu Authorizer",
+    "taste": "Sweet and hot",
+    "category": "Americano",
+    "details": "Espresso with hot water",
+    "photo": "https://imagizer.imageshack.com/img923/2365/IrAigh.png",
+    "image_bb": "https://i.ibb.co/SQThWBt/Americano.png",
+    "price": "299"
+  },
+  {
+    "_id": { "$oid": "652afe9bf574e7e09d4b8ebd" },
+    "name": "Black Coffee",
+    "chef": "Mr. Nibra Sweden",
+    "supplier": "Swedis Beverage",
+    "taste": "Bitter and hot",
+    "category": "Americano",
+    "details": "Espresso with hot water",
+    "photo": "https://imagizer.imageshack.com/img924/7546/4qUoeD.png",
+    "image_bb": "https://i.ibb.co/ZmQtWch/Black.png",
+    "price": "185"
+  },
+  {
+    "_id": { "$oid": "652aff02f574e7e09d4b8ebe" },
+    "name": "Espresso Coffee",
+    "chef": "Mrs. Morisha",
+    "supplier": "Americal Hot Beverage",
+    "taste": "Sweet and hot",
+    "category": "Espresso",
+    "details": "Espresso with hot water",
+    "photo": "https://imagizer.imageshack.com/img924/7195/9X6HYL.png",
+    "image_bb": "https://i.ibb.co/DbtH1Vc/Espresso.png",
+    "price": "389"
+  },
+  {
+    "_id": { "$oid": "652affa2f574e7e09d4b8ebf" },
+    "name": "Cappuccino Coffee",
+    "chef": "Mr. Moruti",
+    "supplier": "Canada Drinkers",
+    "taste": "Sweet and cold",
+    "category": "Cappuccino",
+    "details": "Cappuccino with cold water",
+    "photo": "https://imagizer.imageshack.com/img922/1536/Nmx8jY.png",
+    "image_bb": "https://i.ibb.co/bzZSb0W/Cappuccino.png",
+    "price": "450"
+  },
+  {
+    "_id": { "$oid": "652b008ef574e7e09d4b8ec0" },
+    "name": "Macchiato",
+    "chef": "Mr. Sleigh",
+    "supplier": "Trinity Beverage",
+    "taste": "Sweet and mid",
+    "category": "Americano",
+    "details": "Americano with mid-hot water and ice cubes",
+    "photo": "https://imagizer.imageshack.com/img922/3607/CgB9TO.png",
+    "image_bb": "https://i.ibb.co/d234NGT/Macchiato.png",
+    "price": "489"
+  },
+  {
+    "_id": { "$oid": "652b0100f574e7e09d4b8ec1" },
+    "name": "Decaf Coffee",
+    "chef": "Mr. Danza",
+    "supplier": "Sweden Hot",
+    "taste": "Bitter and hot",
+    "category": "Americano",
+    "details": "Americano with hot water",
+    "photo": "https://imagizer.imageshack.com/img922/6227/A22Ezw.png",
+    "image_bb": "https://i.ibb.co/1GPqcv6/Decaf.png",
+    "price": "149"
+  }
+]
